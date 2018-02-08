@@ -1,1 +1,5 @@
 https://cognitiveclass.ai/learn/
+https://techmaster.vn/posts/33839/machine-learning-cho-nguoi-moi-bat-dau
+https://entipi.com/ds/python-ds/intro/
+https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-8
+https://topdev.vn/blog/top-15-thu-vien-python-tot-nhat-cho-data-science-trong-2017/
